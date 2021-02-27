@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="yestag" label="YESTAG" language="en" table="x_23326_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>yestag</element>
+            <help/>
+            <hint/>
+            <label>YESTAG</label>
+            <language>en</language>
+            <name>x_23326_wish_list_wish_item</name>
+            <plural>YESTAGs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-27 12:46:54</sys_created_on>
+            <sys_id>aed960da1b26641060b18515ec4bcbb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>YESTAG</sys_name>
+            <sys_package display_value="Wish List" source="x_23326_wish_list">1cd4adc41bae201060b18515ec4bcb23</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">1cd4adc41bae201060b18515ec4bcb23</sys_scope>
+            <sys_update_name>sys_documentation_x_23326_wish_list_wish_item_yestag_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-27 12:46:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
